@@ -1,3 +1,4 @@
 # DSC180A-Methodology-3
-Jacob Kavanal
-jkavanal@ucsd.edu
+Jacob Kavanal and Vaidehi Karve
+
+
